@@ -13,7 +13,7 @@ O projeto foi desenvolvido na línguagem de programação Java em toda a constru
 
 ## Passos para a configuração
 
-**1. Clone o aplicativo **
+**1. Clone o projeto **
 
 ```bash
 git clone https://github.com/caiomartinelli2/informacoesDeFilmes.git
