@@ -20,7 +20,7 @@ git clone https://github.com/caiomartinelli2/informacoesDeFilmes.git
 ```
 **3. Abra o projeto em sua IDE  **
 
-**3. Execute o método Main **
+**2. Execute o método Main **
 
 ## 🛠️ Construído com
 
