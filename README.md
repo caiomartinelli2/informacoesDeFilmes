@@ -11,7 +11,7 @@ Projeto desenvolvido como trabalho final na matéria de Programação orientada 
 
 O projeto foi desenvolvido na línguagem de programação Java em toda a construção e também a API [OMDb API](https://www.omdbapi.com/) como fonte das informações exibidas para o usuário.
 
-## Passos para a configuração
+## Passos para a execução:
 
 **1. Clone o projeto **
 
