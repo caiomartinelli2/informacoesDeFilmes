@@ -1,8 +1,8 @@
-# Informações De Filmes
+# Informações De Filmes 🎥
 
 Projeto desenvolvido como trabalho final na matéria de Programação orientada a objetos na UDESC-CCT. O projeto consistente na exibição de dados de um determinado filme que o usúario escolher, buscando na base de dados da Omdb.
 
-## Layout 
+## Layout 🖥
 ![Tela de pesquisa](https://user-images.githubusercontent.com/108761311/177580842-fb35a9b4-1350-4990-94b0-60f962de3dc7.png)
 
 ![Tela de exibição exemplo](https://user-images.githubusercontent.com/108761311/177580831-2effae5b-cfeb-4296-9e53-e0dc89045958.png)
