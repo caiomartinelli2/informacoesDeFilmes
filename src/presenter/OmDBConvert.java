@@ -20,9 +20,7 @@ public class OmDBConvert implements OmHelperlistener{
     }
 
     public JanelaExibicao janelaExibicaoRef;
-
-
-
+    
     public void setJanelaExibicaoRef(JanelaExibicao janelaExibicaoRef) {
         this.janelaExibicaoRef = janelaExibicaoRef;
     }
