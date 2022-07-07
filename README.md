@@ -9,7 +9,7 @@ Projeto desenvolvido como trabalho final na matéria de Programação orientada 
 
 ## 📦 Desenvolvimento
 
-O projeto foi desenvolvido na línguagem de programação Java em toda a construção e também a API [OMDb API](https://www.omdbapi.com/) como fonte das informações exibidas para o usuário.
+O projeto foi desenvolvido na línguagem de programação Java em toda a construção e também a API [OMDb API](https://www.omdbapi.com/) como fonte das informações exibidas para o usuário. As principais díficuldades encontradas foi na hora de escrever a requicição com o servidor, que aceita apenas um formato específico. Outra dificuldade foi na hora de captar as informações que foram recebidas. 
 
 ## Passos para a execução:
 
