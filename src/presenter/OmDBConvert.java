@@ -15,19 +15,13 @@ public class OmDBConvert implements OmHelperlistener{
 
     public JanelaPesquisa janelaPesquisaRef;
 
-    public JanelaPesquisa getJanelaPesquisaRef() {
-        return janelaPesquisaRef;
-    }
-
     public void setJanelaPesquisaRef(JanelaPesquisa janelaPesquisaRef) {
         this.janelaPesquisaRef = janelaPesquisaRef;
     }
 
     public JanelaExibicao janelaExibicaoRef;
 
-    public JanelaExibicao getJanelaExibicaoRef() {
-        return janelaExibicaoRef;
-    }
+
 
     public void setJanelaExibicaoRef(JanelaExibicao janelaExibicaoRef) {
         this.janelaExibicaoRef = janelaExibicaoRef;
@@ -54,7 +48,7 @@ public class OmDBConvert implements OmHelperlistener{
 
         Image imagem = null;/* w  ww .  ja  v  a 2 s.c o m*/
 
-        URL url = null;
+        URL url;
         try {
             url = new URL(poster);
             imagem = ImageIO.read(url);
